@@ -95,7 +95,7 @@
 
 ## Go
 
-*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 高性能 AI 网关，为多种大模型服务提供统一的负载均衡和密钥管理。High-performance AI gateway providing unified load balancing and key management for various LLM services.
+*   [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
 
 *   [Done-0/Jank](https://github.com/Done-0/Jank) - Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
 
