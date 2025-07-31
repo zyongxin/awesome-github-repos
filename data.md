@@ -193,6 +193,8 @@
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
+*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
+
 *   [Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer.
 
 *   [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
@@ -226,8 +228,6 @@
 ## CSS
 
 *   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-
-*   [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 
 ## Dockerfile
 
